@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_margin">0dp</dimen>
+    <dimen name="cluster_width">40dp</dimen>
+    <dimen name="cluster_height">40dp</dimen>
+    <dimen name="cluster_padding">2dp</dimen>
+</resources>
